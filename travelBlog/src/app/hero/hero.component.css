@@ -1,0 +1,19 @@
+.jumbotron {
+  background: url('https://cdn.pixabay.com/photo/2015/10/26/13/48/desert-1007157_960_720.jpg')  no-repeat center center;
+  color: white;
+  background-size: cover;
+  height: 600px;
+ }
+
+#heroMain{
+   text-align: center;
+   margin-top: 140px;
+ }
+
+ #heroMinor{
+  text-align: center;
+}
+
+#heroBtn {
+  text-align: center;
+}
